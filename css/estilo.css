@@ -1,0 +1,332 @@
+nav{
+	text-align: right;
+	background-color: #fff;
+	position: fixed;
+	top: 0%;
+	left: 0%;
+	right: 0%;
+	padding: 2%;
+	z-index: 20;
+}
+
+.logo{
+	position: absolute;
+	top: 0px;
+	left: 100px;
+}
+
+.left{
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	border-radius: 40px;
+	left: 10%;
+	top: 50%;
+	background-color: #d4130e;
+	text-align: center;
+	font-size: 40px;
+	color: white;
+}
+
+.right{
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	border-radius: 40px;
+	right: 10%;
+	top: 50%;
+	background-color: #d4130e;
+	text-align: center;
+	font-size: 40px;
+	color: white;
+}
+
+.textimage{
+	position: absolute;
+	padding: 30px;
+	background-color: white;
+	opacity: 0.5;
+	left: 17%;
+	top:27%;
+	font-size: 30px;
+}
+
+.menu li{
+	display: inline-block;
+	margin-right: 65px; 
+	border: 0px;
+	top: 10%;
+}
+
+.menu li a{
+	text-decoration: none;
+	color: #440504;
+}
+
+.conten{
+	position: relative;
+	width: 100%;
+	height: auto;
+}
+
+.img-prin img{
+	position: relative;
+	right: 0px;
+	width: 100%;
+	height: auto;
+}
+
+.logo img{
+}
+
+.cua-azu1{
+	text-align: center;
+	width: 25%;
+	position: absolute;
+	top: 87%;
+	margin-left: 6%;
+	background-color: #9e9ce2;
+	padding: 60px 30px 66px 30px;
+	opacity: 0.7;
+}
+
+.cua-azu2{
+	position: absolute;
+	top: 87%;
+	margin-left: 35.5%;
+	text-align: center;
+	width: 25%;
+	background-color: #9e9ce2;
+	padding: 60px 30px 48px 30px;
+	opacity: 0.7;
+}
+
+.cua-azu3{
+	position: absolute;
+	top: 87%;
+	margin-left: 65%;
+	text-align: center;
+	width: 25%;
+	background-color: #9e9ce2;
+	padding: 60px 30px 30px 30px;
+	opacity: 0.7;
+}
+
+.conten2{
+	position: relative;
+	margin-top: 340px;
+}
+
+.conten2 p{
+	font-size: 17px;
+	margin-left: 7.5%;
+	margin-right: 30%
+}
+
+.t{
+	font-size: 30px;
+	margin-left: 7.5%;
+	font-family: 'Roboto thin';
+}
+
+.sub{
+	padding: 2px;
+	width: 65px;
+	margin-left: 7.5%;
+	background-color: #d71110;
+}
+
+.button_his{
+	position: absolute;
+	top: 50px;
+	right: 5%;
+}
+
+.button_his button{
+	margin: 2px;
+	width: 300px;
+	height: 40px;
+	background-color: #ddd;
+	border-radius: 4px;
+	opacity: 0.5;
+}
+
+.conten3{
+	position: relative;
+	margin-top: 50px;
+	width: 100%;
+
+}
+
+.conten3 img{
+	position: absolute;
+	width: 100%;
+	z-index: -1; 
+}
+
+.conten3 p{
+	width: 100%;
+	position: absolute;
+	text-align: center;
+	top: 155px;
+	font-size: 25px;
+	color: white;	
+}
+
+.conten4{
+	position: relative;
+	width: 100%;
+	margin-top: 30%;
+	height: 1150px;
+}
+
+.conten4-img1{
+	position: absolute;
+	text-align: left;
+	left: 10%;
+	width: 25%;
+	color: #375394;
+	font-size: 25px;
+}
+
+
+.conten4-img1 img{
+	margin-top: 110px;
+}
+
+.conten4-img2{
+	position: absolute;
+	left: 40%;
+	text-align: left;
+	width: 25%;
+	color: #375394;
+	font-size: 25px;
+}
+
+.conten4-img2 img{
+	margin-top: 110px;
+}
+
+.conten4-img3{
+	position: absolute;
+	left: 70%;
+	text-align: left;
+	width: 25%;
+	color: #375394;
+	font-size: 25px;
+}
+
+
+.conten4-img3 img{
+	margin-top: 110px;
+}
+
+.conten4-img4{
+	top: 610px;
+	position: absolute;
+	left: 10%;
+	text-align: left;
+	width: 25%;
+	color: #375394;
+	font-size: 25px;
+}
+
+
+.conten4-img4 img{
+	margin-top: 110px;
+}
+
+.conten4-img5{
+	top: 620px;
+	position: absolute;
+	left: 40%;
+	text-align: left;
+	width: 25%;
+	color: #375394;
+	font-size: 25px;
+}
+
+
+.conten4-img5 img{
+	margin-top: 110px;
+}
+
+.img1{
+	text-align: center;
+	width: 100%;
+	height: 300px;
+	border: solid #ddd;
+
+}
+
+.botton1{
+	margin-top: 10px;
+	text-align: center;
+	margin-left: 5px;
+}
+
+.botton1 button{
+	width: 100%;
+	height:42px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	background-color: #d4130e;
+	border:  #d4130e;
+	color: white;
+}
+
+.conten-pie{
+	position: relative;
+	width: 95.5%;
+	background-color: #0e2036;
+	color: white;
+	padding: 30px;
+}
+
+.conten-con {
+	margin-left: 5%;
+}
+
+.conten-con input{
+	background-color: #071424;
+	border:  #071424;
+	width: 540px;
+	height: 40px;
+	margin-bottom: 5px;
+	margin-top: 5px; 
+}
+
+.conten-con textarea{
+	background-color: #071424;
+	border:  #071424;
+	width: 536px;
+	height: 40px;
+	margin-top: 5px;
+}
+
+.enviar input{
+	width: 165px;
+	height: 40px;
+	background-color: #d4130e;
+	color: white;
+	font-size: 17px;
+}
+
+.der{
+	position:absolute;
+	width: 40%;
+	top: 15%;
+	left: 50%;
+	font-size: 18px;
+}
+
+.pie-pagina{
+	width: 100%;
+	background-color: #071424;
+	padding: 5px;
+}
+
+.pie-pagina p{
+	text-align: center;
+	color: white;
+}
